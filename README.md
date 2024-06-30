@@ -9,4 +9,4 @@ So why sit there doodling in your notebook when you can claim Tic-Tac-Toe glory 
 
 https://itis-triple-t.netlify.app/
 
-Feel free to tweak this introduction to better match your style and the unique features of your game!!
+Feel free to tweak this to better match your style and the unique features of your game!!
